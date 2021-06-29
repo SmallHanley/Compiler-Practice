@@ -1,0 +1,7 @@
+mycompiler
+*.c
+*.s
+*.h
+Main.class
+*.output
+*.j

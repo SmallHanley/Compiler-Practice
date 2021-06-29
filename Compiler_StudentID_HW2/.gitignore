@@ -1,0 +1,5 @@
+myparser
+*.out
+*.output
+*.c
+*.h
